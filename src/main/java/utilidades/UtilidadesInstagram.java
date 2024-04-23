@@ -86,7 +86,7 @@ public class UtilidadesInstagram {
      *                              y como valor el número de comentarios que tiene esa publicación
      * visualizacionesPorStory -> se calcula poniendo como claves del mapa las stories del usuario
      *                              y como valor el número de visualizaciones que tiene esa story.
-     * (4 puntos)
+     * (5 puntos)
      *s
      * @param usuario
      * @return
